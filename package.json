@@ -1,0 +1,8 @@
+{
+  "name": "housemate",
+  "version": "0.0.1",
+  "description": "Your housemate on the web",
+  "devDependencies": {
+    "gulp": "^3.8.9"
+  }
+}
